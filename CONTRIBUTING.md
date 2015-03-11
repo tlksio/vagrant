@@ -1,4 +1,4 @@
-# Contributing to tlks.io front
+# Contributing to tlks.io vagrant
 
 Looking to contribute something to tlks.io vagrant? **Here's how you can help.**
 
