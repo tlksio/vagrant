@@ -1,4 +1,6 @@
+RM = 'rm'
+
 clean:
-	rm -rf .vagrant
+	$(RM) -rf .vagrant
 
 .PHONY: clean
